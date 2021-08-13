@@ -1,0 +1,4 @@
+tensorflow-gpu~=2.4.1
+numpy~=1.19.5
+PyQt5~=5.15.4
+scikit-image~=0.18.1
